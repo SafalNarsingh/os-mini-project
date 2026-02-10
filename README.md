@@ -45,5 +45,5 @@ cd os-scheduler-streamlit
 
 ### Run the Program:
 ```bash
-python app.py
+python main.py
 ```
